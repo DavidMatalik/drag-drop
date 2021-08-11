@@ -1,0 +1,15 @@
+{
+  "name": "drag-drop",
+  "version": "0.1.0",
+  "description": "This package provides your nodes with dragging and optionally dropping functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "David Matalik",
+  "license": "MIT"
+}
