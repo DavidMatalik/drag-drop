@@ -1,5 +1,6 @@
 {
   "name": "drag-drop",
+  "homepage": "https://github.com/DavidMatalik/drag-drop",
   "version": "0.1.0",
   "description": "This package provides your nodes with dragging and optionally dropping functionality",
   "main": "index.js",
